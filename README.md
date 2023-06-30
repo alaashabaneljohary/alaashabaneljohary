@@ -2,7 +2,7 @@
 🌱 I’m learning Frontend Web Development.
 🤝 I’m looking to collaborate on some web projects.
 💬 Ask me about Web Technologies.
-📫 How to reach me: eljohary69@gmail.com, +201550487610.
+📫 How to reach me: alaashaban569@gmail.com, +201550487610 , 01025704389.
 😌 I love coding, gaming, reading, drawing ...
 
 <!---  
